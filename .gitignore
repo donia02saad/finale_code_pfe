@@ -1,0 +1,13 @@
+cool_meal/node_modules/**/*
+cool_meal/.expo/*
+cool_meal/npm-debug.*
+cool_meal/*.jks
+cool_meal/*.p8
+cool_meal/*.p12
+cool_meal/*.key
+cool_meal/*.mobileprovision
+cool_meal/*.orig.*
+cool_meal/web-build/
+
+# macOS
+cool_meal/.DS_Store
